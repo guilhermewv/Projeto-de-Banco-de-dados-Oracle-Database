@@ -93,3 +93,19 @@
   - Comunidades de DBAs e cursos de Oracle Database
 
 ---
+
+## 👥 Integrantes do Trabalho 
+
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allany-dias-124377292/) Allany Dias
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gon%C3%A7alves-4a6873365/)
+ Guilherme Gonçalves
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-bento-50552a273/) José Luis
+
+---
+
+## Turma
+
+Ads - 185
